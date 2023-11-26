@@ -31,5 +31,5 @@ Conclude with a concise summary of key points. Reinforcing these messages ensure
 * `assets/` contains assets for the IMPACT framework including the core rubric, images and other materials.
 
 ## Examples
-* `examples/evaluation/` contains examples of demos evaluated using the IMPACT framework
+* `examples/evaluations/` contains examples of demos evaluated using the IMPACT framework
 * `examples/designs/` contains examples of planning demos using the IMPACT framework
