@@ -1,5 +1,5 @@
 # impact-framework
-MPACT - An opinionated framework for structuring impactful demos.
+IMPACT - An opinionated framework for structuring impactful demos.
 
 ## Background
 
