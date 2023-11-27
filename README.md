@@ -1,5 +1,5 @@
 # IMPACT Framework
-IMPACT - An opinionated framework for structuring impactful demos.
+IMPACT - An opinionated structural framework for impactful demos.
 
 ## Background
 
