@@ -27,6 +27,8 @@ A compelling demo doesn't just inform; it motivates. End with a clear and persua
 ### Takeaways
 Conclude with a concise summary of key points. Reinforcing these messages ensures they stick with your audience long after the demo ends.
 
+![IMPACT Infographic](/assets/rubric.png)
+
 ## Assets
 * `assets/` contains assets for the IMPACT framework including the core rubric, images and other materials.
 
